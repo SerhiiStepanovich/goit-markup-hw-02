@@ -1,0 +1,217 @@
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+/*----------------------header----------------------------*/
+
+.header {
+  background: #ffffff;
+}
+
+.header-navigation-link {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+}
+
+.header-navigation-link:hover {
+  color: #404bbf;
+}
+.header-navigation-link:focus {
+  color: #404bbf;
+}
+.header-link-item-a {
+  color: #2e2f42;
+}
+
+address {
+  font-style: normal;
+}
+
+.header-link-item-a:hover {
+  color: #404bbf;
+}
+.header-link-item-a:focus {
+  color: #404bbf;
+}
+
+.header-address-contact:hover {
+  color: #404bbf;
+}
+
+.header-address-contact:focus {
+  color: #404bbf;
+}
+
+.header-navigation-link span {
+  color: #2e2f42;
+}
+
+.header-address-contact {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+.header-link-item {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+/*----------main-section-one-effective-solutions-------------*/
+.main-section-one-button:hover {
+  background-color: #404bbf;
+}
+
+.main-section-one-button:focus {
+  background-color: #404bbf;
+}
+
+.main-section-one-title {
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #ffffff;
+}
+.main-section-one-button {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  background: #4d5ae5;
+  cursor: pointer;
+}
+.main-section-one-effective-solutions {
+  background: #2e2f42;
+}
+
+/*----------main-section-two-about-us-------------*/
+.main-section-two-about-us-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.main-section-two-about-us-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/*----------main-section-three-our-team-------------*/
+.main-section-three-our-team-list {
+  background-color: #ffffff;
+}
+
+.main-section-three-our-team-list-li {
+  background-color: #ffffff;
+}
+.main-section-three-our-team-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 111%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.main-section-three-our-team-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.main-section-three-our-team-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+}
+.main-section-three-our-team {
+  background: #f4f4fd;
+  text-transform: capitalize;
+}
+
+/*---------------main-section-four-our-portfolio-title---------------------*/
+
+.main-section-four-our-portfolio-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 111%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  text-transform: capitalize;
+}
+.main-section-four-our-portfolio-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.main-section-four-our-portfolio-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/*----------------------footer----------------------------*/
+
+.footer-link:hover {
+  color: #404bbf;
+}
+.footer-link:focus {
+  color: #404bbf;
+}
+.footer-link {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 117%;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.footer-link span {
+  color: #f4f4fd;
+}
+.footer {
+  background: #2e2f42;
+}
+.footer-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+}
